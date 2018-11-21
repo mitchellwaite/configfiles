@@ -5,3 +5,4 @@ set number
 set backspace=2
 colo pablo 
 syntax on
+set showmode
